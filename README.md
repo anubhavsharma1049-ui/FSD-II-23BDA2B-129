@@ -1,19 +1,20 @@
-React + Vite login system with role-based access control (Admin/User).
-Features
+**React + Vite login system with role-based access control (Admin/User).**
+
+*Features:-*
 
 Login with email/password
 Role selection (Admin/User)
 Dashboard with permission-based actions
 Responsive UI with modern design
 
-Tech Stack
+*Tech Stack:-*
 
 React 18+ (useState hooks)
 Vite (dev server & build tool)
 JavaScript ES6+
 Inline CSS
 
-Installation
+*Installation:-*
 bash# Create Vite project
 npm create vite@latest fsd_login -- --template react
 cd fsd_login
