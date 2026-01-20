@@ -7,6 +7,12 @@ Role selection (Admin/User)
 Dashboard with permission-based actions
 Responsive UI with modern design
 
+<img width="1318" height="790" alt="Screenshot 2026-01-20 at 12 29 36 PM" src="https://github.com/user-attachments/assets/bab43192-96c1-481f-bf84-4896309f03bf" />
+
+<img width="1110" height="767" alt="Screenshot 2026-01-20 at 12 30 08 PM" src="https://github.com/user-attachments/assets/e0900b2d-26fd-43df-81a4-8b43746bcacb" />
+
+<img width="1450" height="739" alt="Screenshot 2026-01-20 at 12 30 22 PM" src="https://github.com/user-attachments/assets/70d8efb6-6b50-42b6-bbd6-5b8087cccbfc" />
+
 *Tech Stack:-*
 
 React 18+ (useState hooks)
